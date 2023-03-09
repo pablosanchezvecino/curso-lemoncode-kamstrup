@@ -1,6 +1,6 @@
-# Laboratorio 01 - Sintaxis
+# Laboratorio 01 - Sintaxis 
 
-## Ejercicio 1
+## Ejercicio 1 - Solicite el nombre de una persona, su edad y el nombre de una ciudad. Después de solicitar estos datos deberá mostrar por pantalla el siguiente mensaje: Te llamas y tienes <años> años. Bienvenido a
 ``` C#
 using System;
 
@@ -66,7 +66,7 @@ namespace lab1
 
 ```
 
-## Ejercicio 2
+## Ejercicio 2 - Solicite dos números y diga cual es el mayor.
 ``` C#
 using System;
 
@@ -133,7 +133,7 @@ namespace lab1
 
 ```
 
-## Ejercicio 3
+## Ejercicio 3 - Pedir el nombre de la semana al usuario y decirle si es fin de semana o no. En caso de error, indicarlo.
 ``` C#
 using System;
 
@@ -179,7 +179,7 @@ namespace lab1
 
 ```
 
-## Ejercicio 4
+## Ejercicio 4 - Recorre los números del 1 al 100. Muestra los números pares. Usar el tipo de bucle que quieras.
 ``` C#
 using System;
 
@@ -202,7 +202,7 @@ namespace pruebas2
 
 ```
 
-## Ejercicio 5
+## Ejercicio 5 – Solicitar un número al usuario y generar un Array con N números aleatorios. Por ejemplo, si el usuario introduce 4, el resultado por consola debería ser: 23, 34, 234, 11
 ``` C#
 using System;
 
@@ -262,7 +262,8 @@ namespace pruebas2
 
 ```
 
-## Ejercicio 6
+## Ejercicio 6 – Solicitar un número al usuario y un carácter. Crear una pirámide con N filas y el carácter solicitado.
+
 ``` C#
 using System;
 
